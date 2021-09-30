@@ -1,0 +1,14 @@
+#header {
+    background-color: rgba(0, 0, 0);
+}
+
+a.header {
+    font-size:20px;
+    color:#0b0c0c;
+    text-decoration: none;
+}
+
+a.header:hover {
+    color:#780000;
+}
+
