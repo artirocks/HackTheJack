@@ -13,7 +13,6 @@ This is achieved here by tracking the status of a traveller, and storing all rel
 4. [Deploy Blockchain Ledger](#4-deploy-blockchain-ledger)
 5. [Deploy Facial Comparison Service](#5-deploy-facial-comparison-service)
 6. [Deploy Node.js application](#6-deploy-cloud-services)
-7. [Populate Ledger and Simulate Transactions](#7-populate-ledger-and-simulate-transactions)
 
 ## Install Prerequisites:
 
@@ -96,9 +95,6 @@ After the network is up and running, we'll need to install the "Smart Contracts"
 ```
 ./installChaincode.sh
 ``` -->
-
-
-*Local Scripts*
 
 We can use the Hyperledger fabric scripts to provision a network like so.
 ```
