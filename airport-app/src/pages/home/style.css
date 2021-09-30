@@ -1,0 +1,15 @@
+#home {
+    background-color: rgba(0, 0, 0);
+}
+
+.portal {
+    
+    background-image: linear-gradient(45deg, #0069f2, #e64c05);
+    
+    background-repeat: repeat;
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
