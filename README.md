@@ -3,7 +3,7 @@ In this code we have leveraged blockchain technology and biometrics to automate 
 
 This is achieved here by tracking the status of a traveller, and storing all related updates on a blockchain ledger. As users go through each flight checkpoint, such as retrieving their ticket, checking in to security, etc, the application will receive some biometric data, such as an image of their face, iris, or fingerprint. The biometric data is then validated, and the check-in event is then stored on a blockchain.
 
-<img src="">
+<img src="https://github.com/artirocks/HackTheJack/blob/main/airport-app/public/The_Unknowns_Adani_Jack_The_Hack.jpg">
 
 # Steps
 
